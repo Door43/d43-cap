@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cap:home|Door43 (cap)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cap|d43-cap repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cap/archive/master.zip|d43-cap.zip]]
+
+**Recent Changes**
+{{changes>ns = cap}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cap|Ethnologue data]]
+
